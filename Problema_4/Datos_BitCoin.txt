@@ -1,0 +1,3 @@
+Precio en USD: 70045.3568
+Precio en GBP: 55789.0253
+Precio en EUR: 65291.7987
